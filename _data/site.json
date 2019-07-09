@@ -1,22 +1,19 @@
 {
-  "title": "Adele Goldstine",
-  "author": "Adele Goldstine",
-  "url": "https://myurl.com/",
+  "title": "Christian Fritsch",
+  "author": "Christian Fritsch",
+  "url": "https://www.c-fritsch.de/",
   "description": "Personal blog and resume",
-  "avatar": "eniac-woman.jpg",
-  "resume": "/static/sample-resume.pdf",
-  "email": "yourname@email.com",
-  "github": "username",
-  "twitter": "username",
-  "linkedin": "username",
-  "stackoverflow": "1234567/username",
-  "disqus": "username",
-  "google_analytics": "UA-12345678-1",
+  "avatar": "me.png",
+  "email": "chr.fritsch@gmx.net",
+  "github": "chrfritsch",
+  "twitter": "c_fritsch",
+  "linkedin": "chrfritsch",
+  "google_analytics": "",
   "feed": {
     "subtitle": "I wrote the book on electronic digital computing.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://www.c-fritsch.de//feed/feed.xml",
+    "id": "https://www.c-fritsch.de//"
   }
 }
